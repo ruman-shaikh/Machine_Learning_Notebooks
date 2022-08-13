@@ -1,5 +1,5 @@
 # Machine_Learning_Notebooks
-Machine Learning Notebooks
+### Machine Learning Notebooks
 
 The repo contains small scale machine learning related projects usually containing one notebook worth of code.
 
