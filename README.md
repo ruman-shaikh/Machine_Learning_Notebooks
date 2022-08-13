@@ -5,6 +5,9 @@ The repo contains small scale machine learning related projects usually containi
 
 Each folder contains the work done on a dataset.
 
-Author: Ruman Shaikh
+### Author Information
+Author: Ruman Shaikh,
+
 Email: s.k.ruman.0@gmail.com
+
 Phone: +91-953-877-2702
